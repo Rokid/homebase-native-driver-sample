@@ -1,0 +1,17 @@
+{
+  "vendor": "sample",
+  "type": "native",
+  "maxAccount": 1,
+  "authType": "password",
+  "icon": "https://www.xxxx.com",
+  "i18n": {
+    "zh": {
+      "name": "样本"
+    },
+    "en": {
+      "name": "sample"
+    }
+  },
+  "actionName": "com.rokid.homebase.driver.sample",
+  "packageName": "com.rokid.homebase.driver.sample"
+}

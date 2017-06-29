@@ -1,0 +1,6 @@
+{
+	"name":"driver-sample",
+	"version":"1.0.0",
+	"main":"native-driver-sample.apk",
+	"files":["native-driver-sample.apk"]
+}
