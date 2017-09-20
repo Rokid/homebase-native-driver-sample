@@ -10,7 +10,7 @@ public interface Constants {
 
 
     //example:lifesmart broadlink orvibo
-    String VENDOR="sample";
+    String VENDOR="samples";
 
     int TIME_OUT = 5000;
 

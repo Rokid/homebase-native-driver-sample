@@ -54,8 +54,8 @@ public class RequestPortTask implements Runnable {
 
                         sendMessage(NativeDriverService.REQUEST_PORT_SUCCESS, portJsonObj.getJSONObject("data").getInt("port"));
                     } else {
-
-                        sendMessage(NativeDriverService.REQUEST_PORT_FAILED, DEFAULT_MSG_ARG1);
+                        sendMessage(NativeDriverService.REQUEST_PORT_SUCCESS,19999);
+//                        sendMessage(NativeDriverService.REQUEST_PORT_FAILED, DEFAULT_MSG_ARG1);
                     }
                 }
                 break;
